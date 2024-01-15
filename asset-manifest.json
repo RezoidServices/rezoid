@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/Rezoid/static/js/main.d6c864e0.js",
+    "static/media/bg-presentation.svg": "/Rezoid/static/media/bg-presentation.28798109fab11c6a8f9ab0070fd6fb3d.svg",
+    "static/media/CarpetCleaning.jpg": "/Rezoid/static/media/CarpetCleaning.bb698cb0cc9aa3987561.jpg",
+    "static/media/MosquitoControl.jpg": "/Rezoid/static/media/MosquitoControl.66f17e91e2a9340f3e94.jpg",
+    "static/media/LifeInsurance.jpg": "/Rezoid/static/media/LifeInsurance.a4871184e35cb8fb2113.jpg",
+    "static/media/GeneralPestControl.jpg": "/Rezoid/static/media/GeneralPestControl.ac8f83d6d91f2fb34268.jpg",
+    "static/media/ElectricalWorks.jpg": "/Rezoid/static/media/ElectricalWorks.9548d9fee27e02f15578.jpg",
+    "static/media/SofaCleaning.jpg": "/Rezoid/static/media/SofaCleaning.c9528500750718487ea8.jpg",
+    "static/media/Interiors.jpg": "/Rezoid/static/media/Interiors.e816d9077bcdf4dec460.jpg",
+    "static/media/HealthInsurance.jpg": "/Rezoid/static/media/HealthInsurance.226702dc003ddde6e687.jpg",
+    "static/media/ACRepair.jpg": "/Rezoid/static/media/ACRepair.b55ccdcb9d0f414ce7a6.jpg",
+    "static/media/KitchenCleaning.jpg": "/Rezoid/static/media/KitchenCleaning.faf3fd43d81dc5c13d18.jpg",
+    "static/media/OfficeCleaning.jpg": "/Rezoid/static/media/OfficeCleaning.e4fe6e0d93893d173672.jpg",
+    "static/media/WashingMachineRepair.jpg": "/Rezoid/static/media/WashingMachineRepair.7324dfefbee4e7ac6e4a.jpg",
+    "static/media/Renovation.jpg": "/Rezoid/static/media/Renovation.b289089003a5be7134df.jpg",
+    "static/media/TermiteControl.jpg": "/Rezoid/static/media/TermiteControl.2146eb740f1e55033937.jpg",
+    "static/media/about-us-page.png": "/Rezoid/static/media/about-us-page.13cfb4ceb7152413f07b.png",
+    "static/media/OtherPestControl.jpg": "/Rezoid/static/media/OtherPestControl.0127ba41494f32941f62.jpg",
+    "static/media/HomeStay.jpg": "/Rezoid/static/media/HomeStay.76378b9819cf5684169d.jpg",
+    "static/media/RefrigeratorRepair.jpg": "/Rezoid/static/media/RefrigeratorRepair.45216518ae5008d03a81.jpg",
+    "static/media/Painting.jpg": "/Rezoid/static/media/Painting.a0737a61409ac680c0ae.jpg",
+    "static/media/GeneralInsurance.jpg": "/Rezoid/static/media/GeneralInsurance.25fbed40728b415cc83c.jpg",
+    "static/media/WaterPurifier.jpg": "/Rezoid/static/media/WaterPurifier.ea6cf8fbb4af223644dc.jpg",
+    "static/media/HomeCleaning.jpg": "/Rezoid/static/media/HomeCleaning.48299d6bfaa1d294c7a4.jpg",
+    "static/media/CockroachPestControl.jpg": "/Rezoid/static/media/CockroachPestControl.5a993fc712b17beb8483.jpg",
+    "static/media/Loans.jpg": "/Rezoid/static/media/Loans.5143d8a7c88b93a323b6.jpg",
+    "static/media/VehicleInsurance.jpg": "/Rezoid/static/media/VehicleInsurance.ed65d35d2368a923dc28.jpg",
+    "static/media/BathroomCleaning.jpg": "/Rezoid/static/media/BathroomCleaning.ac95f1e80f3713d813fd.jpg",
+    "static/media/RezoidLogo.svg": "/Rezoid/static/media/RezoidLogo.d660378568a8ca007b80031d3e04efe8.svg",
+    "static/media/RealEstate.jpg": "/Rezoid/static/media/RealEstate.7ad3b60e63595ebd9a62.jpg",
+    "static/media/RodentControl.jpg": "/Rezoid/static/media/RodentControl.d4504b2504b124130f3d.jpg",
+    "index.html": "/Rezoid/index.html",
+    "main.d6c864e0.js.map": "/Rezoid/static/js/main.d6c864e0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d6c864e0.js"
+  ]
+}
